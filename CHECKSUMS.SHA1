@@ -6,11 +6,13 @@ d1753862e0df7b8106b7ae4da14887afb1ae2830 *add.2o7Net\update.info
 d84f071edb50d8387fdc4c300a26125deaca4974 *add.Risk\update.info
 ca28596b847e65ca4142cbbc24883e44635774da *add.Spam\hosts
 552e22b593e1e71a2d76a1249a6a8bff3f8fc0d3 *add.Spam\update.info
-12a264071eaeecc7f5a1cc114f60c545db9cfd9e *hosts-file.net\hosts
-be921fdaca833de33e7c5d18ca26c02b0c41effc *hosts-file.net\update.info
+12a264071eaeecc7f5a1cc114f60c545db9cfd9e *hpHosts\hosts
+be921fdaca833de33e7c5d18ca26c02b0c41effc *hpHosts\update.info
+5215e01bf6def6bdeb980c26a42902bc213121ce *hpHosts.partial\hosts
+879521fcb5bbe9af8491106501bb8158a0ee554c *hpHosts.partial\update.info
 87ae06b02e5801ed684f1b2a65945e6d633d7aa1 *SpotifyAds\hosts
 b35fa7bb42771d913a8cc0fe2fa46b6fde7e2a4c *SpotifyAds\update.info
-1a4518244ff08933beee84fd6033af3c8a40574d *Telemetry\hosts
+ebc5eef1403a101072540a72c16c1213dd618a5a *Telemetry\hosts
 7ca43df87ed60048bcc69c12cac130d3925af5f3 *Telemetry\update.info
 470d4ab7d726b52bbade8888ddfae420300ed5f2 *UncheckyAds\hosts
 47a6d5792d038270612a41e93f9c02749e4dde88 *UncheckyAds\update.info
