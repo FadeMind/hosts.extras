@@ -10,6 +10,7 @@ https://github.com/StevenBlack/hosts
 | add.Spam   	 | Spam websites                            	 			|
 | hpHosts		 | Hosts file with almost 460 000 entries					|
 | hpHosts.partial| Hosts were added to hpHosts AFTER the last full release. |
+| KADhosts		 | Fraud/adware/scam websites								|
 | SpotifyAds  	 | Sources ads in Spotify                    	 			|
 | Telemetry  	 | Windows users tracking                    	 			|
 | UncheckyAds 	 | Windows installers ads sources            	 			|

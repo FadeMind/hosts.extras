@@ -8,8 +8,10 @@ ca28596b847e65ca4142cbbc24883e44635774da *add.Spam\hosts
 552e22b593e1e71a2d76a1249a6a8bff3f8fc0d3 *add.Spam\update.info
 a52f8c580c33ca524c414bf038663985f6f5b2df *hpHosts\hosts
 be921fdaca833de33e7c5d18ca26c02b0c41effc *hpHosts\update.info
-cbb2237354075edb2535ff54fd2363440091a661 *hpHosts.partial\hosts
+5ea32bfe7dddd18224d2567b3ff1286964bfcd77 *hpHosts.partial\hosts
 879521fcb5bbe9af8491106501bb8158a0ee554c *hpHosts.partial\update.info
+fb5bb560011e89117df51936518c6f245560ea2f *KADhosts\hosts
+e0132bd142b1667e656ab62fc84b7c03e6ff906f *KADhosts\update.info
 87ae06b02e5801ed684f1b2a65945e6d633d7aa1 *SpotifyAds\hosts
 b35fa7bb42771d913a8cc0fe2fa46b6fde7e2a4c *SpotifyAds\update.info
 ebc5eef1403a101072540a72c16c1213dd618a5a *Telemetry\hosts
