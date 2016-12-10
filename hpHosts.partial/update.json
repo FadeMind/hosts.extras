@@ -1,3 +1,8 @@
 {
+    "name": "hpHosts.partial",
+    "description": "hpHosts is a community managed and maintained hosts file that allows an additional layer of protection against access to ad, tracking and malicious websites. Daily partial update.",
+    "homeurl": "https://www.hosts-file.net/",
+    "frequency": "daily",
+    "issues": "https://hosts-file.net/?s=Contact",
     "url": "https://hosts-file.net/hphosts-partial.txt"
 }
