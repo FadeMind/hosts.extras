@@ -1,6 +1,6 @@
 ### Extra rules for @StevenBlack 's hosts project
 
-https://github.com/StevenBlack/hosts
+This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 
 | Directory   	 	| Description and homepage                          	 																|
 :-------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -10,13 +10,10 @@ https://github.com/StevenBlack/hosts
 | add.Spam   	 	| Spam websites. [hostsfile.org](http://hostsfile.org/hosts.html)                            	 						|
 | hpHosts		 	| Hosts file with almost `460 000` entries. [hpHosts](https://www.hosts-file.net)										|
 | hpHosts.partial	| Hosts were added to hpHosts AFTER the last full release. [hpHosts](https://www.hosts-file.net)						|
-| KADhosts		 	| Fraud/adware/scam websites. [KADhosts](https://github.com/azet12/KADhosts)											|
 | rlwpx.free.fr.hrsk| Dangerous/risk content. `58 001` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)						|
 | rlwpx.free.fr.htrc| Tracking websites. `45 825` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)								|
-| SpotifyAds  	 	| Sources ads in Spotify.                    	 																		|
-| Telemetry  	 	| Windows users tracking.                    	 																		|
+| SpotifyAds  	 	| Ads sources in Spotify.                 	 															    			|
 | UncheckyAds 	 	| Windows installers ads sources. [Unchecky](https://unchecky.com/)         	 										|
-
 
 |If you want using huge hosts file with merged [hpHosts](https://www.hosts-file.net) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|
 :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
