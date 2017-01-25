@@ -6,8 +6,8 @@ b3feb42db141cfdabcf40e029faf8a25daf5b3d3  add.Dead/update.json
 deb0ff1f297157f1af6aad95866011b2059dd675  add.Risk/update.json
 fa07d14b244d333dea1a8d9cffae1809eac87a2b  add.Spam/hosts
 605c812e50a8efb4fc93d7d63985079ff3ef1612  add.Spam/update.json
-286353003bc2f25508697c97bca1390b364046d4  hpHosts/hosts
-1f9c92d57f4524dfb913a5f1f7e6817324b380c8  hpHosts.partial/hosts
+29c53202bc49fb96395d92f8340947a1ad37e934  hpHosts/hosts
+b0278410a7b304388b8ccc95122f013ed0e06f8c  hpHosts.partial/hosts
 36748e0afbe5a438571dcd5f41ac7b643ad121df  hpHosts.partial/update.json
 a62f6c15126c7c9bb7de1623ac6216479a8dfe7d  hpHosts/update.json
 1c4b3b4fe1369ddf1681ad6242c0fc9369c63eab  rlwpx.free.fr.hrsk/hosts
