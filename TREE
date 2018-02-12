@@ -1,0 +1,39 @@
+.
+|-- 00checksum.sha512.gen.bash
+|-- 00hpHosts.update.bash
+|-- CHECKSUMS.SHA512
+|-- LICENSE
+|-- README.md
+|-- Spotify-Ad-free
+|   |-- hosts
+|   `-- update.json
+|-- TREE
+|-- UncheckyAds
+|   |-- hosts
+|   `-- update.json
+|-- add.2o7Net
+|   |-- hosts
+|   `-- update.json
+|-- add.Dead
+|   |-- hosts
+|   `-- update.json
+|-- add.Risk
+|   |-- hosts
+|   `-- update.json
+|-- add.Spam
+|   |-- hosts
+|   `-- update.json
+|-- hpHosts
+|   |-- hosts
+|   `-- update.json
+|-- hpHosts.partial
+|   |-- hosts
+|   `-- update.json
+|-- rlwpx.free.fr.hrsk
+|   |-- hosts
+|   `-- update.json
+`-- rlwpx.free.fr.htrc
+    |-- hosts
+    `-- update.json
+
+10 directories, 26 files
