@@ -1,6 +1,6 @@
 .
+|-- 00ExternalSrcHosts.updates.bash
 |-- 00checksum.sha512.gen.bash
-|-- 00hpHosts.update.bash
 |-- CHECKSUMS.SHA512
 |-- LICENSE
 |-- README.md
