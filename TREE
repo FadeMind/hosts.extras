@@ -2,6 +2,9 @@
 |-- 00ExternalSrcHosts.updates.bash
 |-- 00checksum.sha512.gen.bash
 |-- CHECKSUMS.SHA512
+|-- CoinBlockerLists
+|   |-- hosts
+|   `-- update.json
 |-- LICENSE
 |-- README.md
 |-- Spotify-Ad-free
@@ -9,6 +12,9 @@
 |   `-- update.json
 |-- TREE
 |-- UncheckyAds
+|   |-- hosts
+|   `-- update.json
+|-- adblock-nocoin-list
 |   |-- hosts
 |   `-- update.json
 |-- add.2o7Net
@@ -36,4 +42,4 @@
     |-- hosts
     `-- update.json
 
-10 directories, 26 files
+12 directories, 30 files

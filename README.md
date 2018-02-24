@@ -2,18 +2,20 @@
 
 This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 
-| Directory   	 	| Description and homepage                          	 																| License       
-:-------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------|
-| add.2o7Net  		| 2o7 Network tracking. [hostsfile.org](http://hostsfile.org/hosts.html) 												| GPLv3+
-| add.Dead    		| Dead websites. Against typos in URLs. [hostsfile.org](http://hostsfile.org/hosts.html) 		 						| GPLv3+
-| add.Risk   	 	| Websites with risk content, malwares etc.	[hostsfile.org](http://hostsfile.org/hosts.html)							| GPLv3+
-| add.Spam   	 	| Spam websites. [hostsfile.org](http://hostsfile.org/hosts.html)                            	 						| GPLv3+
-| hpHosts		 	| Hosts file with almost `460 000` entries. [hpHosts](https://www.hosts-file.net)										| Freeware
-| hpHosts.partial	| Hosts were added to hpHosts AFTER the last full release. [hpHosts](https://www.hosts-file.net)						| Freeware
-| rlwpx.free.fr.hrsk| Dangerous/risk content. `58 001` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)						| CC BY-NC 3.0
-| rlwpx.free.fr.htrc| Tracking websites. `45 825` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)								| CC BY-NC 3.0
-| Spotify-Ad-free  	| A filter list to block all Spotify ads [Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free)                | MIT
-| UncheckyAds 	 	| Windows installers ads sources. [Unchecky](https://unchecky.com/)         	 										|
+| Directory   	 	 | Description and homepage                          	 																| License
+:--------------------|----------------------------------------------------------------------------------------------------------------------|-----------------|
+| add.2o7Net  		 | 2o7 Network tracking. [hostsfile.org](http://hostsfile.org/hosts.html) 												| GPLv3+
+| add.Dead    		 | Dead websites. Against typos in URLs. [hostsfile.org](http://hostsfile.org/hosts.html) 		 						| GPLv3+
+| add.Risk   	 	 | Websites with risk content, malwares etc.	[hostsfile.org](http://hostsfile.org/hosts.html)						| GPLv3+
+| add.Spam   	 	 | Spam websites. [hostsfile.org](http://hostsfile.org/hosts.html)                            	 						| GPLv3+
+| adblock-nocoin-list| Blocking Web Browser Bitcoin Mining [homepage](https://github.com/hoshsadiq/adblock-nocoin-list)                     | MIT
+| CoinBlockerLists   | Simple lists that can help prevent cryptomining in the browser or other applications [homepage](https://github.com/ZeroDot1/CoinBlockerLists) |GPLv3+
+| hpHosts		 	 | Hosts file with almost `460 000` entries. [hpHosts](https://www.hosts-file.net)										| Freeware
+| hpHosts.partial	 | Hosts were added to hpHosts AFTER the last full release. [hpHosts](https://www.hosts-file.net)						| Freeware
+| rlwpx.free.fr.hrsk | Dangerous/risk content. `58 001` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)						| CC BY-NC 3.0
+| rlwpx.free.fr.htrc | Tracking websites. `45 825` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)							| CC BY-NC 3.0
+| Spotify-Ad-free  	 | A filter list to block all Spotify ads [Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free)               | MIT
+| UncheckyAds 	 	 | Windows installers ads sources. [Unchecky](https://unchecky.com/)         	 										|
 
 |If you want using huge hosts file with merged [hpHosts](https://www.hosts-file.net) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|
 :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

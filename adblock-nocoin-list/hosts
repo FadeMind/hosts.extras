@@ -1,0 +1,167 @@
+# NoCoin Filter List
+# Blocking Web Browser Bitcoin Mining
+#
+# Homepage: https://github.com/hoshsadiq/adblock-nocoin-list/
+# Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+# Changelog: https://github.com/hoshsadiq/adblock-nocoin-list/commits/master/hosts.txt
+# License: https://mit-license.org/
+#
+# Last modified: 22 Feb 2018
+#
+
+0.0.0.0 cnhv.co
+0.0.0.0 coin-hive.com
+0.0.0.0 coinhive.com
+0.0.0.0 gus.host
+0.0.0.0 load.jsecoin.com
+0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minemytraffic.com
+0.0.0.0 ppoi.org
+0.0.0.0 projectpoi.com
+0.0.0.0 crypto-loot.com
+0.0.0.0 coinerra.com
+0.0.0.0 coin-have.com
+0.0.0.0 minero.pw
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 api.inwemo.com
+0.0.0.0 rocks.io
+0.0.0.0 adminer.com
+0.0.0.0 ad-miner.com
+0.0.0.0 jsccnn.com
+0.0.0.0 jscdndel.com
+0.0.0.0 coinhiveproxy.com
+0.0.0.0 coinblind.com
+0.0.0.0 coinnebula.com
+0.0.0.0 monerominer.rocks
+0.0.0.0 cdn.cloudcoins.co
+0.0.0.0 coinlab.biz
+0.0.0.0 go.megabanners.cf
+0.0.0.0 baiduccdn1.com
+0.0.0.0 wsp.marketgid.com
+0.0.0.0 papoto.com
+0.0.0.0 flare-analytics.com
+0.0.0.0 www.sparechange.io
+0.0.0.0 static.sparechange.io
+0.0.0.0 miner.nablabee.com
+0.0.0.0 m.anyfiles.ovh
+0.0.0.0 www.freecontent.bid
+0.0.0.0 www.cryptonoter.com
+0.0.0.0 www.mutuza.win
+0.0.0.0 cryweb.github.io
+0.0.0.0 crywebber.github.io
+0.0.0.0 crypto-webminer.com
+0.0.0.0 cdn.adless.io
+0.0.0.0 hegrinhar.com
+0.0.0.0 verresof.com
+0.0.0.0 hemnes.win
+0.0.0.0 tidafors.xyz
+0.0.0.0 moneone.ga
+0.0.0.0 plexcoin.info
+0.0.0.0 www.monkeyminer.net
+0.0.0.0 go2.mercy.ga
+0.0.0.0 coinpirate.cf
+0.0.0.0 d.cpufan.club
+0.0.0.0 krb.devphp.org.ua
+0.0.0.0 nfwebminer.com
+0.0.0.0 node.cfcdist.gdn
+0.0.0.0 webxmr.com
+0.0.0.0 xmr.mining.best
+0.0.0.0 webminepool.com
+0.0.0.0 webminepool.tk
+0.0.0.0 hive.tubetitties.com
+0.0.0.0 playerassets.info
+0.0.0.0 tokyodrift.ga
+0.0.0.0 webassembly.stream
+0.0.0.0 okeyletsgo.ml
+0.0.0.0 candid.zone
+0.0.0.0 webmine.pro
+0.0.0.0 andlache.com
+0.0.0.0 bablace.com
+0.0.0.0 bewaslac.com
+0.0.0.0 biberukalap.com
+0.0.0.0 bowithow.com
+0.0.0.0 butcalve.com
+0.0.0.0 evengparme.com
+0.0.0.0 gridiogrid.com
+0.0.0.0 hatcalter.com
+0.0.0.0 kedtise.com
+0.0.0.0 ledinund.com
+0.0.0.0 nathetsof.com
+0.0.0.0 renhertfo.com
+0.0.0.0 rintindown.com
+0.0.0.0 sparnove.com
+0.0.0.0 witthethim.com
+0.0.0.0 1q2w3.fun
+0.0.0.0 1q2w3.me
+0.0.0.0 cryptoloot.pro
+0.0.0.0 bjorksta.men
+0.0.0.0 crypto.csgocpu.com
+0.0.0.0 noblock.pro
+0.0.0.0 miner.cryptobara.com
+0.0.0.0 digger.cryptobara.com
+0.0.0.0 dev.cryptobara.com
+0.0.0.0 reservedoffers.club
+0.0.0.0 mine.torrent.pw
+0.0.0.0 host.d-ns.ga
+0.0.0.0 abc.pema.cl
+0.0.0.0 mine.nahnoji.cz
+0.0.0.0 webmine.cz
+0.0.0.0 intactoffers.club
+0.0.0.0 analytics.blue
+0.0.0.0 smectapop12.pl
+0.0.0.0 berserkpl.net.pl
+0.0.0.0 hodlers.party
+0.0.0.0 hodling.faith
+0.0.0.0 chainblock.science
+0.0.0.0 minescripts.info
+0.0.0.0 cdn.minescripts.info
+0.0.0.0 miner.nablabee.com
+0.0.0.0 wss.nablabee.com
+0.0.0.0 clickwith.bid
+0.0.0.0 dronml.ml
+0.0.0.0 niematego.tk
+0.0.0.0 tulip18.com
+0.0.0.0 p.estream.to
+0.0.0.0 didnkinrab.com
+0.0.0.0 ledhenone.com
+0.0.0.0 losital.ru
+0.0.0.0 mebablo.com
+0.0.0.0 moonsade.com
+0.0.0.0 nebabrop.com
+0.0.0.0 pearno.com
+0.0.0.0 rintinwa.com
+0.0.0.0 willacrit.com
+0.0.0.0 www2.adfreetv.ch
+0.0.0.0 minr.pw
+0.0.0.0 new.minr.pw
+0.0.0.0 test.minr.pw
+0.0.0.0 staticsfs.host
+0.0.0.0 cdn-code.host
+0.0.0.0 g-content.bid
+0.0.0.0 ad.g-content.bid
+0.0.0.0 cdn.static-cnt.bid
+0.0.0.0 cnt.statistic.date
+0.0.0.0 cdn.jquery-uim.download
+0.0.0.0 cdn-jquery.host
+0.0.0.0 p1.interestingz.pw
+
+# Does not seem to work anymore, but keeping it here just in case it gets revived
+0.0.0.0 azvjudwr.info
+0.0.0.0 jroqvbvw.info
+0.0.0.0 jyhfuqoh.info
+0.0.0.0 kdowqlpt.info
+0.0.0.0 xbasfbno.info
+
+# These were Obfuscated
+0.0.0.0 1beb2a44.space
+0.0.0.0 300ca0d0.space
+0.0.0.0 310ca263.space
+0.0.0.0 320ca3f6.space
+0.0.0.0 330ca589.space
+0.0.0.0 340ca71c.space
+0.0.0.0 360caa42.space
+0.0.0.0 370cabd5.space
+0.0.0.0 3c0cb3b4.space
+0.0.0.0 3d0cb547.space
