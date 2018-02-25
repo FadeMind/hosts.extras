@@ -11,7 +11,7 @@ if [ -f Spotify-Ad-free/hosts ] ; then rm Spotify-Ad-free/hosts ; fi
 wget https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt -O Spotify-Ad-free/hosts
 #COINBLOCKERLISTS
 if [ -f CoinBlockerLists/hosts ] ; then rm CoinBlockerLists/hosts ; fi
-wget https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts -O CoinBlockerLists/hosts
+wget https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser -O CoinBlockerLists/hosts
 #ADBLOCK-NOCOIN-LIST
 if [ -f adblock-nocoin-list/hosts ] ; then rm adblock-nocoin-list/hosts ; fi
 wget https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt -O adblock-nocoin-list/hosts
