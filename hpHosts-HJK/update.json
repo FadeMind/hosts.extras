@@ -1,0 +1,8 @@
+{
+    "name": "hpHosts-HJK",
+    "description": "The following are hosts in the hpHosts database with the HJK classification ONLY.",
+    "homeurl": "https://www.hosts-file.net/",
+    "frequency": "monthly",
+    "issues": "https://hosts-file.net/?s=Contact",
+    "url": "https://hosts-file.net/hjk.txt"
+}
