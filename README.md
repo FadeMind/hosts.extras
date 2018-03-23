@@ -9,6 +9,7 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | add.Risk   	 	 | Websites with risk content, malwares etc.	[hostsfile.org](http://hostsfile.org/hosts.html)						| GPLv3+
 | add.Spam   	 	 | Spam websites. [hostsfile.org](http://hostsfile.org/hosts.html)                            	 						| GPLv3+
 | adblock-nocoin-list| Blocking Web Browser Bitcoin Mining [homepage](https://github.com/hoshsadiq/adblock-nocoin-list)                     | MIT
+| bjornstar          | Advertisers and other purveyors of worthless content [homepage](https://github.com/bjornstar/hosts)                  | Unlicense
 | CoinBlockerList    | Prevent cryptomining in the browser [homepage](https://github.com/ZeroDot1/CoinBlockerLists)                         | GPLv3+
 | hpHosts		 	 | MAIN, BIG Hosts file with almost `725 000` entries. [hpHosts](https://www.hosts-file.net)							| Freeware
 | hpHosts-ATS		 | Ad/tracking servers. ONLY [hpHosts](https://www.hosts-file.net)			                                            | Freeware
