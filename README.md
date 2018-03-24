@@ -8,8 +8,6 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | add.Dead    		 | Dead websites. Against typos in URLs. [hostsfile.org](http://hostsfile.org/hosts.html) 		 						| GPLv3+
 | add.Risk   	 	 | Websites with risk content, malwares etc.	[hostsfile.org](http://hostsfile.org/hosts.html)						| GPLv3+
 | add.Spam   	 	 | Spam websites. [hostsfile.org](http://hostsfile.org/hosts.html)                            	 						| GPLv3+
-| adblock-nocoin-list| Blocking Web Browser Bitcoin Mining [homepage](https://github.com/hoshsadiq/adblock-nocoin-list)                     | MIT
-| bjornstar          | Advertisers and other purveyors of worthless content [homepage](https://github.com/bjornstar/hosts)                  | Unlicense
 | CoinBlockerList    | Prevent cryptomining in the browser [homepage](https://github.com/ZeroDot1/CoinBlockerLists)                         | GPLv3+
 | hpHosts		 	 | MAIN, BIG Hosts file with almost `725 000` entries. [hpHosts](https://www.hosts-file.net)							| Freeware
 | hpHosts-ATS		 | Ad/tracking servers. ONLY [hpHosts](https://www.hosts-file.net)			                                            | Freeware
@@ -25,7 +23,7 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | hpHosts.partial	 | Hosts were added to hpHosts AFTER the last full release. [hpHosts](https://www.hosts-file.net)						| Freeware
 | rlwpx.free.fr.hrsk | Dangerous/risk content. `58 001` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)						| CC BY-NC 3.0
 | rlwpx.free.fr.htrc | Tracking websites. `45 825` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)							| CC BY-NC 3.0
-| Spotify-Ad-free  	 | A filter list to block all Spotify ads [Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free)               | MIT
+| SpotifyAds  	     |Spotify ads sources based on [Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free) content with fixes.      | MIT
 | UncheckyAds 	 	 | Windows installers ads sources. [Unchecky](https://unchecky.com/)         	 										|
 
 |If you want using huge hosts file with merged [hpHosts](https://www.hosts-file.net) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|

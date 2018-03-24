@@ -1,9 +1,0 @@
-{
-    "name": "NoCoin Filter List",
-    "description": "Blocking Web Browser Bitcoin Mining",
-    "homeurl": "https://github.com/hoshsadiq/adblock-nocoin-list",
-    "frequency": "frequently",
-    "issues": "https://github.com/hoshsadiq/adblock-nocoin-list/issues",
-    "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
-    "license": "MIT"
-}
