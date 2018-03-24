@@ -23,7 +23,7 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | hpHosts.partial	 | Hosts were added to hpHosts AFTER the last full release. [hpHosts](https://www.hosts-file.net)						| Freeware
 | rlwpx.free.fr.hrsk | Dangerous/risk content. `58 001` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)						| CC BY-NC 3.0
 | rlwpx.free.fr.htrc | Tracking websites. `45 825` entries. [rlwpx.free.fr](http://rlwpx.free.fr/WPFF/hosts.htm)							| CC BY-NC 3.0
-| SpotifyAds  	     |Spotify ads sources based on [Spotify-Ad-free](https://github.com/CHEF-KOCH/Spotify-Ad-free) content with fixes.      | MIT
+| StreamingAds       |Streaming services ads sources.                                                                                       | MIT
 | UncheckyAds 	 	 | Windows installers ads sources. [Unchecky](https://unchecky.com/)         	 										|
 
 |If you want using huge hosts file with merged [hpHosts](https://www.hosts-file.net) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|
