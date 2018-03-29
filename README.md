@@ -23,6 +23,7 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | hpHosts.partial	 | Hosts were added to hpHosts AFTER the last full release.                      | Freeware    | [link](https://www.hosts-file.net)
 | rlwpx.free.fr.hrsk | Dangerous/risk content. `58 001` entries.                                     | CC BY-NC 3.0| [link](http://rlwpx.free.fr/WPFF/hosts.htm)
 | rlwpx.free.fr.htrc | Tracking websites. `45 825` entries.                                          | CC BY-NC 3.0| [link](http://rlwpx.free.fr/WPFF/hosts.htm)
+| RW_DOMBL           | Ransomware sites ported from ransomwaretracker.abuse.ch |Free for non-commercial use| [link](https://ransomwaretracker.abuse.ch/blocklist/)
 | StreamingAds       | Streaming services ads sources.                                               | MIT         |
 | UncheckyAds 	 	 | Windows installers ads sources.                                               |             | [link](https://unchecky.com/)
 
