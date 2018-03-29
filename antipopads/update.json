@@ -1,0 +1,9 @@
+{
+    "name": "antipopads",
+    "description": "List of popads.net domains.",
+    "homeurl": "https://github.com/Yhonay/antipopads",
+    "frequency": "daily",
+    "issues": "https://github.com/Yhonay/antipopads/issues",
+    "url": "https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts",
+    "license": "WTFPLv2"
+}
