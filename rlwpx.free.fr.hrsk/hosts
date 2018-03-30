@@ -1,10 +1,3 @@
-# Liste anti-risk bloquant l'acccs r 58001 sites r possible contenu dangereux
-# (C) Airelle - http://rlwpx.free.fr/WPFF/hosts.htm - 06.11.2016
-# Diffusion et utilisation libres sous reserve de conserver les commentaires
-# Licence : Creative Commons by-nc (http://creativecommons.org/licenses/by-nc/3.0/)
-# File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 12 Feb 14:02:44 UTC 2018 
-
 0.0.0.0 0--foodwarez.da.ru 
 0.0.0.0 0-0-0-0-0-0proxy.tserv.se 
 0.0.0.0 0-0-0.6te.net 
