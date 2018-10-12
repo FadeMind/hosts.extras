@@ -38,3 +38,7 @@ Open a Command Prompt with Administrator privileges and run once commands:
 sc config "Dnscache" start= disabled
 sc stop "Dnscache"
 ```
+
+|Whitelist file contents required domains for properly working some sites.
+:-------------------------------------------------------------------------
+
