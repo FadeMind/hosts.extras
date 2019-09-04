@@ -28,6 +28,10 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | RW_DOMBL           | Ransomware sites ported from ransomwaretracker.abuse.ch |Free for non-commercial use| [link](https://ransomwaretracker.abuse.ch/blocklist/)
 | StreamingAds       | Streaming services ads sources.                                               | MIT         |
 | UncheckyAds 	 	 | Windows installers ads sources.                                               |             | [link](https://unchecky.com/)
+| WindowsSpyBlocker-EXTRA | Hosts extra rules. | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
+| WindowsSpyBlocker-SPY | Hosts spy rules. | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
+| WindowsSpyBlocker-UPDATE | Hosts update rules. | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
+
 
 |If you want using huge hosts file with merged [hpHosts](https://www.hosts-file.net) you need to DISABLE and STOP `Dnscache` service before you replace hosts file in Windows Systems. You have been warned.|
 :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
