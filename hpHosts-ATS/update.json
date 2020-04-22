@@ -1,8 +1,0 @@
-{
-    "name": "hpHosts-ATS",
-    "description": "The following are hosts in the hpHosts database with the ATS classification ONLY.",
-    "homeurl": "https://www.hosts-file.net/",
-    "frequency": "monthly",
-    "issues": "https://hosts-file.net/?s=Contact",
-    "url": "https://hosts-file.net/ad_servers.txt"
-}

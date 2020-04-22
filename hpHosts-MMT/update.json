@@ -1,8 +1,0 @@
-{
-    "name": "hpHosts-MMT",
-    "description": "The following are hosts in the hpHosts database with the MMT classification ONLY.",
-    "homeurl": "https://www.hosts-file.net/",
-    "frequency": "monthly",
-    "issues": "https://hosts-file.net/?s=Contact",
-    "url": "https://hosts-file.net/mmt.txt"
-}

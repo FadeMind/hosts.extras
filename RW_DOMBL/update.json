@@ -1,9 +1,0 @@
-{
-    "name": "RW_DOMBL",
-    "description": "Ransomware sites ported from ransomwaretracker.abuse.ch.",
-    "homeurl": "https://github.com/FadeMind/hosts.extras",
-    "frequency": "monthly",
-    "issues": "https://github.com/FadeMind/RW_DOMBL/issues",
-    "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/RW_DOMBL/hosts",
-    "license": "Free for non-commercial use"
-}
