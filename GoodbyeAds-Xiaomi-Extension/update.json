@@ -1,0 +1,9 @@
+{
+    "name": "GoodbyeAds Xiaomi Adblock Extension",
+    "description": "Blocks Xiaomi Ads, Tracking & Analytics.",
+    "homeurl": "https://github.com/jerryn70/GoodbyeAds",
+    "frequency": "occasionally",
+    "issues": "https://github.com/jerryn70/GoodbyeAds/issues",
+    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt",
+    "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "GoodbyeAds Spotify AdBlock Extension",
+    "description": "Blocks Spotify Ads.",
+    "homeurl": "https://github.com/jerryn70/GoodbyeAds",
+    "frequency": "occasionally",
+    "issues": "https://github.com/jerryn70/GoodbyeAds/issues",
+    "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt",
+    "license": "MIT"
+}

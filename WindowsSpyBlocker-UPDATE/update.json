@@ -1,0 +1,9 @@
+{
+    "name": "WindowsSpyBlocker-UPDATE",
+    "description": "Hosts update rules",
+    "homeurl": "https://github.com/crazy-max/WindowsSpyBlocker",
+    "frequency": "occasional",
+    "issues": "https://github.com/crazy-max/WindowsSpyBlocker/issues",
+    "url": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt",
+    "license": "MIT"
+}

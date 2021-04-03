@@ -1,0 +1,9 @@
+{
+    "name": "anudeepND-blacklist-adservers",
+    "description": "Block ads, tracking and more",
+    "homeurl": "https://github.com/anudeepND/blacklist",
+    "frequency": "frequently",
+    "issues": "https://github.com/anudeepND/blacklist/issues",
+    "url": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+    "license": "MIT"
+}
