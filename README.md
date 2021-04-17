@@ -31,3 +31,6 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 
 |Whitelist file contents required domains for properly working some sites.
 :-------------------------------------------------------------------------
+
+|If you will use large hosts file disable Dnscache service in Windows first! You have been warned. Use once	`disable-dnscache-service-win.cmd`.
+:-------------------------------------------------------------------------
