@@ -1,0 +1,9 @@
+{
+    "name": "Lightswitch05-ads-tracking-extended",
+    "description": "300K entries. A programmatically expanded list of hosts used for advertisements and tracking.",
+    "homeurl": "https://github.com/lightswitch05/hosts",
+    "frequency": "daily",
+    "issues": "https://github.com/lightswitch05/hosts/issues",
+    "url": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+    "license": "Apache 2.0"
+}
