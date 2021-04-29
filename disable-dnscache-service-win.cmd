@@ -28,10 +28,22 @@ if '%errorlevel%' NEQ '0' (
     pushd "%CD%"
     CD /D "%~dp0"
 	goto SCset
-	
+
 :SCset
 :: https://superuser.com/a/1217703
 :: https://stackoverflow.com/a/133926
-sc config Dnscache start= disabled
-sc stop Dnscache
+::sc config Dnscache start= disabled
+::sc stop Dnscache
+
+:: VALUE 
+:: 2 (Automatic) (DEFAULT)
+:: 4 (Disabled) (prevent freeze network after applying huge hosts file)
+::
+:: Latest changes in security Windows 10 denied access to changing services via other tools except registry hack
+::
+:: See https://superuser.com/a/1277960
+::
+REG add "HKLM\SYSTEM\CurrentControlSet\services\Dnscache" /v Start /t REG_DWORD /d 4 /f
+echo "Reboot your system now!"
+echo .
 @PAUSE
