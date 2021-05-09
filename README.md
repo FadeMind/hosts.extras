@@ -29,8 +29,7 @@ This is part of [Steven Black's hosts](https://github.com/StevenBlack/hosts)
 | WindowsSpyBlocker-SPY | Hosts spy rules | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
 | WindowsSpyBlocker-UPDATE | Hosts update rules | MIT | [link](https://github.com/crazy-max/WindowsSpyBlocker)
 
-| Whitelist files contents required domains for properly working some sites.
-| See [hosts.whitelists](https://github.com/FadeMind/hosts.whitelists)
+| Whitelist files contents required domains for properly working some sites. See [hosts.whitelists](https://github.com/FadeMind/hosts.whitelists)
 :-------------------------------------------------------------------------
 
 | If you will use large hosts file disable Dnscache service in Windows first! You have been warned. Use once	`disable-dnscache-service-win.cmd`.
