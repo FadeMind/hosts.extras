@@ -2,7 +2,6 @@
     "name": "rlwpx.free.fr.htrc",
     "description": "Tracking sites based on http://rlwpx.free.fr/WPFF/hosts.htm content.",
     "homeurl": "https://github.com/FadeMind/hosts.extras",
-    "frequency": "occasionally",
     "issues": "https://github.com/FadeMind/hosts.extras/issues",
     "url": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/rlwpx.free.fr.htrc/hosts",
 	"license": "CC BY-NC 3.0"

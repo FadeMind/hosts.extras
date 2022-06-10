@@ -2,7 +2,6 @@
     "name": "GoodbyeAds Samsung Adblock Extension",
     "description": "Blocks Samsung Ads, Tracking & Analytics.",
     "homeurl": "https://github.com/jerryn70/GoodbyeAds",
-    "frequency": "occasionally",
     "issues": "https://github.com/jerryn70/GoodbyeAds/issues",
     "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt",
     "license": "MIT"
